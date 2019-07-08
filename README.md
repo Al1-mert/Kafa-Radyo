@@ -3,3 +3,8 @@
 
 Simple radio app using Windows Media Player API. Windows media player apisi kullanılarak yapılan şık radyo uygulaması.
 (Kafa radyo için)
+
+C# kullanılarak Masaüstü Windows platformu için geliştirilmiştir. Kaynak kodu kullanılarak IOS'a compile edilinebilir.
+Ayarlar menüsünde 'Yayın Adresi:' bölümüne istenilen radyo/canlı yayın adresi yazılabilir.
+
+WMP ve Bunifu (lisansı ücretsiz) framework/api 'leri kullanıldı.
