@@ -16,4 +16,4 @@ C:\Users\MertPC\source\repos\Radyo\Radyo\bin\Debug\KafaRadyo.exe.config
 C:\Users\MertPC\source\repos\Radyo\Radyo\bin\Debug\KafaRadyo.exe
 C:\Users\MertPC\source\repos\Radyo\Radyo\bin\Debug\KafaRadyo.pdb
 C:\Users\MertPC\source\repos\Radyo\Radyo\obj\Debug\KafaRadyo.exe
-C:\Users\MertPC\source\repos\Radyo\Radyo\obj\Debug\KafaRadyo.pdb
+C:\Users\MertPC\source\repos\Radyo\Radyo\obj\Debug\KafaRadyo.pdb  
